@@ -1,0 +1,36 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local runtime data & exports (keep directory structure via .gitkeep)
+reports/*.pdf
+reports/*.html
+reports/*.csv
+history/*.json
+!reports/.gitkeep
+!history/.gitkeep
+
+# Archives and build artifacts
+*.zip
+*.tar.gz
+*.rar
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

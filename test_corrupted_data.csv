@@ -1,0 +1,7 @@
+Patient_ID,Age,Gender,Height_cm,Weight_kg,BMI,Systolic_BP,Diastolic_BP,Heart_Rate,Blood_Glucose,Cholesterol,Hemoglobin
+PID-9001,45,Male,175,75,24.49,120,80,72,95,180,14.5
+PID-9002,not_a_number,Female,160,unknown,invalid,130,85,75,110,210,13.2
+PID-9003,50,Male,0,80,0,140,90,80,150,230,15.1
+PID-9004,60,Female,165,70,25.71,120,80,70,100,190,14.0
+PID-9004,60,Female,165,70,25.71,120,80,70,100,190,14.0
+PID-9005,55,Other,170,68,23.53,120,80,72,105,200,13.8
